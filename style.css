@@ -113,12 +113,12 @@ section{
    font-size: 4rem;
    color: var(--main-color);
    text-align: center;
-   text-transform: uppercase;
+   
    margin-bottom: 4rem;
 }
 .title span{
   color: #fff;
-  text-transform: uppercase;
+  
 }
 .about .row {
     display: flex;
@@ -394,7 +394,8 @@ section{
   }
 
   .navbar.active {
-    display: flex;
+    display: flow;
+    
   }
 
   /* Animação do ícone hamburguer → "X" */
